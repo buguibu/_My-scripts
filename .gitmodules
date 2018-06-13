@@ -1,0 +1,6 @@
+[submodule "Apple-Slack-Pomodoro"]
+	path = Apple-Slack-Pomodoro
+	url = https://github.com/buguibu/Apple-Slack-Pomodoro
+[submodule "AppleScripts-Slack"]
+	path = AppleScripts-Slack
+	url = https://github.com/buguibu/AppleScripts-Slack
